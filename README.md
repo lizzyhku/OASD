@@ -1,6 +1,6 @@
 # OASD
 
-This is the implementation of our paper "Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning (ICDE23)".
+This is the implementation of our paper "Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning" (ICDE23).
 
 ## Requirements
 
@@ -49,3 +49,8 @@ You can directly run the [`evaluation.py`](./evaluation.py) once you obtain the 
 ```
 python evaluation.py
 ```
+
+## Citing OASD
+
+Please cite our paper if you find the repository is useful.
+
