@@ -56,12 +56,13 @@ python evaluation.py
 ## Citing OASD
 
 If our paper benefits to your research, please cite our paper using the bitex below:
-
-  @article{zhang2022online,
+@article{zhang2022online,
   title={Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning},
   author={Zhang, Qianru and Wang, Zheng and Long, Cheng and Huang, Chao and Yiu, Siu-Ming and Liu, Yiding and Cong, Gao and Shi, Jieming},
   journal={arXiv preprint arXiv:2211.08415},
   year={2022}
   }
 
+
+  
 
