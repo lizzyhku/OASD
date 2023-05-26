@@ -51,8 +51,17 @@ You can directly run the [`evaluation.py`](./evaluation.py) once you obtain the 
 python evaluation.py
 ```
 
+![Prediction Results](./picture/result_icde.png)
+
 ## Citing OASD
 
-Please cite our paper if you find the repository is useful.
+If our paper benefits to your research, please cite our paper using the bitex below:
 
-![Prediction Results](./picture/result_icde.png)
+  @article{zhang2022online,
+  title={Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning},
+  author={Zhang, Qianru and Wang, Zheng and Long, Cheng and Huang, Chao and Yiu, Siu-Ming and Liu, Yiding and Cong, Gao and Shi, Jieming},
+  journal={arXiv preprint arXiv:2211.08415},
+  year={2022}
+}
+
+
