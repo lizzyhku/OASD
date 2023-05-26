@@ -1,3 +1,5 @@
+![Framework](./picture/framework_icde.png)
+
 # OASD
 
 This is the implementation of our paper "Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning" (ICDE23).
@@ -53,3 +55,4 @@ python evaluation.py
 
 Please cite our paper if you find the repository is useful.
 
+![Prediction Results](./picture/result_icde.png)
