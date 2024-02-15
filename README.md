@@ -4,6 +4,9 @@
 
 This is the implementation of our paper "Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning" (ICDE23).
 
+## Raw data
+Please refer to this paper https://dl.acm.org/doi/abs/10.1145/3459637.3482293 to map original trajectories.
+
 ## Requirements
 
 * Linux Ubuntu OS (16.04 is tested)
