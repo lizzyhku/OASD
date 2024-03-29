@@ -1,4 +1,4 @@
-![image](https://github.com/lizzyhku/OASD/assets/8544661/72724d6a-6e57-4dd0-8756-82b2de157914)![Framework](./picture/framework_icde.png)
+![Framework](./picture/framework_icde.png)
 
 # OASD
 
