@@ -21,7 +21,7 @@ pip install gensim
 
 ## Dataset & Preprocessing
 
-The datasets are from DiDi Chuxing. We provide the data preprocessing in [`data_utils.py`](./data_utils.py), it outputs the processed data for our model training and testing. For ease of use, we dump these outputs as [data.zip](https://pan.baidu.com/s/1tw_N6MQwg1047NY-rfePlw?pwd=u6g7), which can be downloaded and unzipped into the ./OASD folder directly, or you may want to generate them step-by-step, just release the comments accordingly in the codes.
+The datasets are from DiDi Chuxing. We provide the data preprocessing in [`data_utils.py`](./data_utils.py), it outputs the processed data for our model training and testing. For ease of use, we dump these outputs as [`data.zip`](https://pan.baidu.com/s/1tw_N6MQwg1047NY-rfePlw?pwd=u6g7), which can be downloaded and unzipped into the ./OASD folder directly, or you may want to generate them step-by-step, just release the comments accordingly in the codes.
 
 ```
 python data_utils.py
