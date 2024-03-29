@@ -1,4 +1,4 @@
-![Framework](./picture/framework_icde.png)
+![image](https://github.com/lizzyhku/OASD/assets/8544661/72724d6a-6e57-4dd0-8756-82b2de157914)![Framework](./picture/framework_icde.png)
 
 # OASD
 
@@ -21,7 +21,7 @@ pip install gensim
 
 ## Dataset & Preprocessing
 
-The datasets are from DiDi Chuxing. We provide the data preprocessing in [`data_utils.py`](./data_utils.py), it outputs the processed data for our model training and testing. For ease of use, we dump these outputs as [data.zip](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zwang125_connect_hku_hk/EeTUfBORYA9FoMjmkmqi4xoBFkISEMDd7UCKwtO-9o9Fag?e=XgvvBC), which can be downloaded and unzipped into the ./OASD folder directly, or you may want to generate them step-by-step, just release the comments accordingly in the codes.
+The datasets are from DiDi Chuxing. We provide the data preprocessing in [`data_utils.py`](./data_utils.py), it outputs the processed data for our model training and testing. For ease of use, we dump these outputs as [data.zip](https://pan.baidu.com/s/1tw_N6MQwg1047NY-rfePlw?pwd=u6g7), which can be downloaded and unzipped into the ./OASD folder directly, or you may want to generate them step-by-step, just release the comments accordingly in the codes.
 
 ```
 python data_utils.py
